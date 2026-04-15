@@ -1,0 +1,12 @@
+{
+    "model_name": "mobilenetv2",
+    "accuracy": 0.9401088929219601,
+    "macro_f1": 0.9381990111001592,
+    "classes": [
+        "daisy",
+        "dandelion",
+        "roses",
+        "sunflowers",
+        "tulips"
+    ]
+}

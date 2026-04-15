@@ -1,0 +1,12 @@
+{
+    "model_name": "svm",
+    "accuracy": 0.5372050816696915,
+    "macro_f1": 0.5285697095118479,
+    "classes": [
+        "daisy",
+        "dandelion",
+        "roses",
+        "sunflowers",
+        "tulips"
+    ]
+}

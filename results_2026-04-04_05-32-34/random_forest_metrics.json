@@ -1,0 +1,12 @@
+{
+    "model_name": "random_forest",
+    "accuracy": 0.515426497277677,
+    "macro_f1": 0.49687003802573726,
+    "classes": [
+        "daisy",
+        "dandelion",
+        "roses",
+        "sunflowers",
+        "tulips"
+    ]
+}
